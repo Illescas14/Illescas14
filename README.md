@@ -34,8 +34,13 @@ Plataforma web enfocada en conectar usuarios con proveedores de servicios técni
 
 ## 📊 Mis Estadísticas de GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Illescas14)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Illescas14&background=00000000&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
-![Top Lenguajes](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Illescas14&layout=compact&theme=radial&langs_count=6)
-
-![Estadísticas de Illescas14](https://github-readme-stats-sigma-five.vercel.app/api?username=Illescas14&show_icons=true&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Illescas14&layout=compact&bg_color=00000000&hide_border=true&title_color=00f2fe&text_color=ffffff" alt="Top Lenguajes" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Illescas14&show_icons=true&bg_color=00000000&hide_border=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe" alt="Estadísticas de Illescas14" />
+</p>
