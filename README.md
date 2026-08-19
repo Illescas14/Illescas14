@@ -11,14 +11,25 @@ Soy un desarrollador de software enfocado en crear soluciones web y móviles rob
 ## 💻 Tecnologías y Herramientas
 
 * **Lenguajes de Programación:** Kotlin, Java, PHP, Python, JavaScript
-* **Desarrollo Web & Frameworks:** HTML5, CSS3, Bootstrap, Node.js
-* **Desarrollo Móvil:** Kotlin (Android Studio), Firebase Integration
-* **Bases de Datos:** MySQL, SQL Server
+* **Desarrollo Web & Backend:** HTML5, CSS3, Bootstrap, Node.js, APIs REST
+* **Desarrollo Móvil:** Kotlin (Android Studio), Room, Firebase Integration
+* **Bases de Datos:** MySQL, SQL Server, PostgreSQL
+* **Despliegue & Cloud:** Render, Firebase
 * **Herramientas & Entornos:** Git, GitHub
 
 ---
 
 ## 🏆 Proyectos Destacados
+
+### 📱 VendeMóvil
+Aplicación móvil punto de venta (POS) diseñada para la gestión de ventas, control de inventario e historial de transacciones en tiempo real.
+* **Tecnologías:** Kotlin, Room, Firebase.
+* **Logro:** Implementación de arquitectura offline-first con sincronización en la nube y exportación de reportes de ventas.
+
+### 🧠 Alerta Conductual
+Sistema orientado a la detección temprana y seguimiento de patrones conductuales para apoyo e intervención oportuna.
+* **Tecnologías:** Kotlin, APIs REST, Render (Deployment).
+* **Logro:** Desarrollo e integración de servicios desplegados en la nube para el monitoreo dinámico y reporte de indicadores clave de comportamiento.
 
 ### 📱 Parquéate
 Aplicación móvil diseñada para la gestión y optimización de espacios de estacionamiento.
@@ -30,17 +41,4 @@ Plataforma web enfocada en conectar usuarios con proveedores de servicios técni
 * **Tecnologías:** PHP, MySQL, JavaScript.
 * **Logro:** Participante en la etapa regional de INNOVATECNM.
 
----
 
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Illescas14&background=00000000&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Illescas14&layout=compact&bg_color=00000000&hide_border=true&title_color=00f2fe&text_color=ffffff" alt="Top Lenguajes" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Illescas14&show_icons=true&bg_color=00000000&hide_border=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe" alt="Estadísticas de Illescas14" />
-</p>
