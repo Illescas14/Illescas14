@@ -2,7 +2,6 @@
 ## 🚀 Sobre mí
 Soy un desarrollador de software enfocado en crear soluciones web y móviles robustas, eficientes y escalables. Me apasiona la arquitectura de software, la optimización de bases de datos y la automatización de procesos.
 
-- 🎓 Recién egresado en Ingeniería en Sistemas Computacionales.
 - 🛠️ Actualmente desarrollando plataformas web administrativas y de gestión de pagos.
 - 💡 Interesado en el desarrollo backend, integraciones de API y aplicaciones de Inteligencia Artificial.
 
